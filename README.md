@@ -1,3 +1,4 @@
+en este repositorio subi la creacion de una API que simula una red social, echa en conjunto con mis compañeros de la Universidad Nacional de Hurlingham, en la materia Estrategias de Persistencia.
 # 🌐 Red Anti-Social API
 
 Este proyecto corresponde al desarrollo del backend para una red social llamada **Red Anti-Social**. La API permite la gestión de **usuarios, publicaciones, comentarios, imágenes y etiquetas**, trabajando con una base de datos **MongoDB** y el framework **Express**. Se diseñó siguiendo buenas prácticas de desarrollo web, incluyendo validaciones, relaciones entre entidades y documentación con Swagger.
